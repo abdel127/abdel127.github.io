@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My UX and UI Projects on Omar Abdelfatah</title>
-    <link>/uxui/</link>
+    <link>https://abdel127.github.io/uxui/</link>
     <description>Recent content in My UX and UI Projects on Omar Abdelfatah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="/uxui/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="https://abdel127.github.io/uxui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travelz</title>
-      <link>/uxui/travelz/</link>
+      <link>https://abdel127.github.io/uxui/travelz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/uxui/travelz/</guid>
+      <guid>https://abdel127.github.io/uxui/travelz/</guid>
       <description>Collaborative blogging tool for travelers, utilizing user authentication.</description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>/uxui/recipes/</link>
+      <link>https://abdel127.github.io/uxui/recipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/uxui/recipes/</guid>
+      <guid>https://abdel127.github.io/uxui/recipes/</guid>
       <description>Progressive WebApp for personalized recipe tracking.</description>
     </item>
     
     <item>
       <title>Tavolo</title>
-      <link>/uxui/tavolo/</link>
+      <link>https://abdel127.github.io/uxui/tavolo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/uxui/tavolo/</guid>
+      <guid>https://abdel127.github.io/uxui/tavolo/</guid>
       <description>&lt;em&gt;&lt;strong&gt;Design Only&lt;/strong&gt;&lt;/em&gt; || A mobile app that allows users to order as well as make a reservation at sit-in restaurants.</description>
     </item>
     
     <item>
       <title>Connect2Play Sports</title>
-      <link>/uxui/subbuds/</link>
+      <link>https://abdel127.github.io/uxui/subbuds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/uxui/subbuds/</guid>
+      <guid>https://abdel127.github.io/uxui/subbuds/</guid>
       <description>A social platform that allows users to create and search for pick-up games near them, as well as organize amateur and semi-pro leagues.</description>
     </item>
     
