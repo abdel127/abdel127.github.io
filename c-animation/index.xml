@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animation in C&#43;&#43; on Omar Abdelfatah</title>
-    <link>abdel127.github.io/c-animation/</link>
+    <link>/c-animation/</link>
     <description>Recent content in Animation in C&#43;&#43; on Omar Abdelfatah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="abdel127.github.io/c-animation/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="/c-animation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Car Soccer</title>
-      <link>abdel127.github.io/c-animation/car/</link>
+      <link>/c-animation/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/c-animation/car/</guid>
+      <guid>/c-animation/car/</guid>
       <description>3D car soccer. Inspired by Rocket League (TM).</description>
     </item>
     
     <item>
       <title>Dancing Ants</title>
-      <link>abdel127.github.io/c-animation/dance/</link>
+      <link>/c-animation/dance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/c-animation/dance/</guid>
+      <guid>/c-animation/dance/</guid>
       <description>3D dancing ants.</description>
     </item>
     
     <item>
       <title>3D Canvas</title>
-      <link>abdel127.github.io/c-animation/draw/</link>
+      <link>/c-animation/draw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/c-animation/draw/</guid>
+      <guid>/c-animation/draw/</guid>
       <description>3D drawing space where the user can move.</description>
     </item>
     

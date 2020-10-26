@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My AI Projects on Omar Abdelfatah</title>
-    <link>abdel127.github.io/ai/</link>
+    <link>/ai/</link>
     <description>Recent content in My AI Projects on Omar Abdelfatah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="abdel127.github.io/ai/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic CSP Algorithm</title>
-      <link>abdel127.github.io/ai/dynamic-csp/</link>
+      <link>/ai/dynamic-csp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/ai/dynamic-csp/</guid>
+      <guid>/ai/dynamic-csp/</guid>
       <description>A research project on Constraint Satisfaction Problems and an attempt to create an algorithm that can solve a much more complex and dynamic CSP. The machine learning algorithm was developed in Java.</description>
     </item>
     

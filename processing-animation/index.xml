@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animation in Processing on Omar Abdelfatah</title>
-    <link>abdel127.github.io/processing-animation/</link>
+    <link>/processing-animation/</link>
     <description>Recent content in Animation in Processing on Omar Abdelfatah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="abdel127.github.io/processing-animation/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;#169; by Omar Abdelfatah</copyright><atom:link href="/processing-animation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fluid Cloth Simulation</title>
-      <link>abdel127.github.io/processing-animation/cloth/</link>
+      <link>/processing-animation/cloth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/processing-animation/cloth/</guid>
+      <guid>/processing-animation/cloth/</guid>
       <description>3-D mass-spring cloth simulation.</description>
     </item>
     
     <item>
       <title>Fluid Water Simulation</title>
-      <link>abdel127.github.io/processing-animation/water_fluid/</link>
+      <link>/processing-animation/water_fluid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/processing-animation/water_fluid/</guid>
+      <guid>/processing-animation/water_fluid/</guid>
       <description>1D Shallow Water equation demo.</description>
     </item>
     
     <item>
       <title>Firework Generator</title>
-      <link>abdel127.github.io/processing-animation/fireworks/</link>
+      <link>/processing-animation/fireworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/processing-animation/fireworks/</guid>
+      <guid>/processing-animation/fireworks/</guid>
       <description>Particle simulation of fireworks.</description>
     </item>
     
     <item>
       <title>Water Particles</title>
-      <link>abdel127.github.io/processing-animation/water_fountain/</link>
+      <link>/processing-animation/water_fountain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/processing-animation/water_fountain/</guid>
+      <guid>/processing-animation/water_fountain/</guid>
       <description>Particle simulation of a water fountain.</description>
     </item>
     
     <item>
       <title>Fire Particles</title>
-      <link>abdel127.github.io/processing-animation/fire/</link>
+      <link>/processing-animation/fire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/processing-animation/fire/</guid>
+      <guid>/processing-animation/fire/</guid>
       <description>Particle simulation of a fire.</description>
     </item>
     
     <item>
       <title>Bouncing Ball</title>
-      <link>abdel127.github.io/processing-animation/bouncing_ball/</link>
+      <link>/processing-animation/bouncing_ball/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>abdel127.github.io/processing-animation/bouncing_ball/</guid>
+      <guid>/processing-animation/bouncing_ball/</guid>
       <description>A simple bouncing ball.</description>
     </item>
     
